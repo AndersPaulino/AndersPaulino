@@ -25,3 +25,5 @@
 </div>
 
 ##
+
+   ![snake gif](https://github.com/AndersPaulino/AndersPaulino/blob/output/github-contribution-grid-snake.svg)
